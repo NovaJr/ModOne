@@ -30,11 +30,11 @@
         End Select
         Select Case gameresult
             Case 0
-                Label1.Text = "I think it was a draw sir"
+                Label1.Text = "DRAW"
             Case 1
-                Label1.Text = "YOU LOST YOU NOOB!! don't you know how to play this game"
+                Label1.Text = "LOSER!"
             Case 2
-                Label1.Text = "Did you win I don't know you tell me!"
+                Label1.Text = "WIN"
         End Select
     End Sub
 End Class

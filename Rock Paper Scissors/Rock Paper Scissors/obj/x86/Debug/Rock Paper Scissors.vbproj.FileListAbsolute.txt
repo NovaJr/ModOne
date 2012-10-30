@@ -15,3 +15,6 @@ C:\Users\J\Documents\Visual Studio 2010\Projects\Rock Paper Scissors\Rock Paper 
 C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
 C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
 C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
+C:\Users\jche1145\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\jche1145\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\jche1145\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
