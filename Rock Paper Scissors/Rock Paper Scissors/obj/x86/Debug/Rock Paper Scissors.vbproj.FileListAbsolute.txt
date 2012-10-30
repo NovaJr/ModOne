@@ -1,0 +1,17 @@
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.exe
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.pdb
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\bin\Debug\Rock Paper Scissors.xml
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Form1.resources
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock_Paper_Scissors.Resources.resources
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\J\AppData\Local\Temporary Projects\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
+C:\Users\J\Documents\Visual Studio 2010\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\J\Documents\Visual Studio 2010\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\J\Documents\Visual Studio 2010\Projects\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
+C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.exe
+C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.xml
+C:\Users\J\Documents\GitHub\ModOne\Rock Paper Scissors\Rock Paper Scissors\obj\x86\Debug\Rock Paper Scissors.pdb
